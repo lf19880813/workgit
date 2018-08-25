@@ -2,3 +2,8 @@ int main(void)
 {
 	return 0;
 }
+
+void method(void)
+{
+	printf(hello, world!);
+}
